@@ -1,1 +1,1 @@
-<?php define("DB_NAME", "php_pamokos");
+<?php define("DB_NAME", "testux");
