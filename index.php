@@ -1,2 +1,2 @@
 <?php echo "Hello world";
-echo "testing";
+$var = 2;
