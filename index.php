@@ -1,2 +1,2 @@
-<?php echo "Hello world";
+<?php echo "Hello world, people";
 $var = 200;
